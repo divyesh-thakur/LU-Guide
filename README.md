@@ -24,11 +24,10 @@ This mobile application was developed for Laurenation University as part of the 
 
 ## Screenshots
 <img src="./images/LU-g-1.jpg" alt="Home" width="150"/>
-![Home]()
-![Home](./images/LU-g-2.jpg)
-![Map](./images/LU-g-3.jpg)
-![services](./images/LU-g-4.jpg)
-![faq's](./images/LU-g-5.jpg)
+<img src="./images/LU-g-2.jpg" alt="Home" width="150"/>
+<img src="./images/LU-g-3.jpg" alt="Map" width="150"/>
+<img src="./images/LU-g-4.jpg" alt="servies" width="150"/>
+<img src="./images/LU-g-5.jpg" alt="faq's" width="150"/>
 
 ## Installation
 
