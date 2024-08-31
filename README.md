@@ -28,7 +28,7 @@ This mobile application was developed for Laurenation University as part of the 
 ![Home](./images/LU-g-2.jpg)
 ![Map](./images/LU-g-3.jpg)
 ![services](./images/LU-g-4.jpg)
-![faq's](./images/LU-g-.jpg)
+![faq's](./images/LU-g-5.jpg)
 
 ## Installation
 
