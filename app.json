@@ -19,7 +19,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "package": "com.laurentain.map",
-        "googleMapsApiKey": "AIzaSyD8sachYvmPciPxRtVgh8c-y9z1v9CnoHw"
+        "googleMapsApiKey": "Enter your api key"
       }
     },
     "web": {
