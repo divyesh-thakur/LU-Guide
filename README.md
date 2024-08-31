@@ -23,8 +23,8 @@ This mobile application was developed for Laurenation University as part of the 
   A comprehensive FAQ section addressing common questions and providing helpful information for students and visitors.
 
 ## Screenshots
-
-![Home](./images/LU-g-1.jpg)
+<img src="./images/LU-g-1.jpg" alt="Home" width="150"/>
+![Home]()
 ![Home](./images/LU-g-2.jpg)
 ![Map](./images/LU-g-3.jpg)
 ![services](./images/LU-g-4.jpg)
